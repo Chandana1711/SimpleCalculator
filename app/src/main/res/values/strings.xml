@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="hint1">Enter first number</string>
+    <string name="hint2">Enter second number</string>
+
+    <string name="addition">ADDITION</string>
+    <string name="subtraction">SUBTRACTION</string>
+    <string name="multiplication">MULTIPLICATION</string>
+    <string name="division">DIVISION</string>
+    <string name="result">Result will be displayed in its respective operation activity</string>
+    <string name="the_sum_of_given_numbers_is">The sum of given numbers is:</string>
+    <string name="the_difference_of_given_numbers">The difference of given numbers:</string>
+    <string name="the_product_of_given_numbers">The product of given numbers:</string>
+    <string name="the_division_of_given_numbers">The division of given numbers results:</string>
+</resources>
